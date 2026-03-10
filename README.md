@@ -1,4 +1,4 @@
-# Personal Portfolio (2-Page Minimalist Design)
+# My Personal Portfolio 
 
 A lightweight, two-page portfolio website designed to showcase my professional profile and creative projects using pure HTML and CSS.
 
